@@ -28,13 +28,19 @@ Kode ini berfungsi untuk menampilkan judul data produk akhir dan untuk menampilk
 
 Hasil Output
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/hasil%201.png)
+Menu utama
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/hasil%202.png)
+Menampilkan data
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/hasil%203.png)
+Tambah kategori
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/hasil%204.png)
+Ubah harga
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/hasil5.png)
+Hapus kategori
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/hasil%206.png)
+Keluar program dan hasil data akhir
