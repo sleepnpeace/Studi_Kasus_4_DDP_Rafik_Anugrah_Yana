@@ -21,7 +21,7 @@ Kode ini berfungsi jika kita input angka 3 maka program akan menyuruh kita untuk
 Kode ini berfungsi jika kita input angka 4 maka program akan menghapus key dan value kategori dari isi data dictionary yang sudah ditambah, dan jika berhasil muncul pesan "kategori berhasil dihapus" dan jika belum ada data muncul pesan " data  kategori belum ada. " 
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/7.png)
-Kode ini berfungsi jika kita input angka 5 kita akan keluar dari program dan perluangan berhenti
+Kode ini berfungsi jika kita input angka 5 kita akan keluar dari program dan perluangan berhenti dan juga fungsi jika kita menginput selain 1-5 akan muncul pesan "pilihan tidak valid"
 
 ![alt text](https://github.com/sleepnpeace/Studi_Kasus_4_DDP_Rafik_Anugrah_Yana/blob/main/Images/8.png)
 Kode ini berfungsi untuk menampilkan judul data produk akhir dan untuk menampilkan data akhir produk dari yang sudah di lakukan di menu 
